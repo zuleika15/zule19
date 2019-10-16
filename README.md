@@ -13,4 +13,6 @@
 <h2>Redes Sociales</h2>
 <ul><li>Instagram:<strong>zuleika flores</strong>
 <li>facebook :<strong> zuleika flores</strong>
-(https://user-images.githubusercontent.com/55752579/66951460-0b41eb80-f020-11e9-8c15-cadcd4aab05e.jpg)
+<p>
+ <img src="https://user-images.githubusercontent.com/55752579/66951460-0b41eb80-f020-11e9-8c15-cadcd4aab05e.jpg" alt="zule" width="300" height="353" />
+ </p>
